@@ -1,4 +1,4 @@
-package com.blog.api.app.dto;
+package com.blog.api.app.payloads;
 
 public class UserDto {
 }
